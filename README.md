@@ -12,11 +12,14 @@ Using the backend you can search for all users or one user by id. You can create
 ## Code-snippet
 
 ## Routes
-
+![routes](images/userRoute.png)
+![routes](images/thoughtRoute.png)
 ## Models
-
+![Model](images/userModel.png)
+![Model](images/thoughtModel.png)
 ## Controllers
-
+![Controller](images/userController.png)
+![Controller](images/thoughtController.png)
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 MIT License
