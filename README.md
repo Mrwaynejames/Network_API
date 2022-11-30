@@ -6,8 +6,10 @@ This Social Network API backend is a great database for oscial networks becuase 
 
 ## Video Link
 
+https://drive.google.com/file/d/137N2O902JhPZf2Kl1DxTHB46jC613s5r/view
+
 ## Usage
-Using the backend you can search for all users or one user by id. You can create a new user, update a user or delete and user and their thoughts. You can also get all or get one thought by id, as well create and delele thoughts.
+Staarat the prograam with 'npm start' then once you are running routes using insomia you can search for all users or one user by id. You can create a new user, update a user or delete and user and their thoughts. You can also get all or get one thought by id, as well create and delele thoughts.
 
 ## Code-snippet
 
